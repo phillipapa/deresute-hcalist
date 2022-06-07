@@ -11,10 +11,11 @@ A tool to list all new songs from deresute that you haven't downloaded/extracted
 - There is a simple instruction in the bat file itself, though if you still don't understand, you can read this one instead  
 - If you aren't doing any extraction then there's no need for all these stuff, it's only intended to help those who wants to extract the songs themselves.  
 - Only works in windows since it's a batch file  
+- Might need admin permissions if used within `C:/` directory or the like
   
   
 **How to use the bat file:**
-1. Extract all the stuff in any folder as you like (if it's archived/zipped), although it's not recommended to extract it to important/admin-required directory lik `C:\`
+1. Extract all the stuff in any folder as you like (if it's archived/zipped), although it's not recommended to extract it to important/admin-required directory like `C:\`
 2. Place your previously extracted hca files in the empty folder provided (if you deleted the hca files though, this won't work unfortunately)
 3. Open up your manifest file with the db browser and filter on the name column with "l/" (without quotes) and block the name column from top to bottom
    Here's the image if you are stuck: [Image](https://i.imgur.com/xvUCD5n.jpg)
